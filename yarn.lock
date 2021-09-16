@@ -106,10 +106,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@hazmi35/eslint-config@^5.0.0":
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/@hazmi35/eslint-config/-/eslint-config-5.0.0.tgz#224416c534e9c9c7c4ebd8be0752014e63e5aace"
-  integrity sha512-5sPv0IKyeol1jDGncqIr7wtHofYCpsRrduERVvKyCZuwVwPx/6cko5/VfU3mPhSKVesuPqY+hLPvg81tirnz9g==
+"@hazmi35/eslint-config@^6.0.2":
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/@hazmi35/eslint-config/-/eslint-config-6.0.2.tgz#287fa83b89561ab85ca2fbeb5b99d8f089ec064a"
+  integrity sha512-QGykcMusfcOBr9gaqiTZCCJYblTlwnQ+bQTURDnT/Y73cx1cX9iSokFOHk0sfr+0NJ1DDsgZLl//J/IF5P+0mA==
 
 "@humanwhocodes/config-array@^0.5.0":
   version "0.5.0"
