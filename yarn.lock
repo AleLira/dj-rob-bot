@@ -665,7 +665,8 @@ env-paths@^2.2.0:
 
 "erlpack@github:hzmifork/erlpack":
   version "0.1.3"
-  resolved "https://codeload.github.com/hzmifork/erlpack/tar.gz/f206b9469ee7538b0a9d0ac68db4f3a7266f27c7"
+  uid a597db69e3418b74d0b5c75acfde0bab669cc92d
+  resolved "https://codeload.github.com/hzmifork/erlpack/tar.gz/a597db69e3418b74d0b5c75acfde0bab669cc92d"
   dependencies:
     bindings "^1.5.0"
     nan "^2.15.0"
